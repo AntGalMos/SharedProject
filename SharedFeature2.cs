@@ -8,5 +8,6 @@ namespace SharedProject
 {
     class SharedFeature2
     {
+        public string remoteAddedVariable;
     }
 }
