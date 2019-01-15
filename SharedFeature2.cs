@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace SharedProject
 {
-    public class SharedProjects
+    class SharedFeature2
     {
-        public string sharedFeature2;
     }
 }
